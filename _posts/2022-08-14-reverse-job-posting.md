@@ -5,7 +5,7 @@ title:  "Reverse job posting"
 
 # Reverse job posting
 
-_I've had this idea for a while. My eyes start glazing over after a few mintues scrolling through jobs. It's like reading tea leaves trying to figure out what the heck they're looking for based on a few bullet points. So instead, I tried to figure out what I'm looking for. I hope this will help center me when I'm considering roles in the future: Does this company value the same things I do? Will I have a chance to do what I'm best at?_
+_I've had this idea for a while. My eyes start glazing over after a few minutes scrolling through jobs. It's like reading tea leaves trying to figure out what the heck they're looking for based on a few bullet points. So instead, I tried to figure out what I'm looking for. I hope this will help center me when I'm considering roles in the future: Does this company value the same things I do? Will I have a chance to do what I'm best at?_
 
 &nbsp;
 
