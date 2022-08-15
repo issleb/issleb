@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-14T10:23:27-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brian Issleb</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-15T02:26:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brian’s Blog</title><subtitle>I need to get some of this out of my head.</subtitle><entry><title type="html">Reverse job posting</title><link href="http://localhost:4000/2022/08/14/reverse-job-listing.html" rel="alternate" type="text/html" title="Reverse job posting" /><published>2022-08-14T00:00:00-05:00</published><updated>2022-08-14T00:00:00-05:00</updated><id>http://localhost:4000/2022/08/14/reverse-job-listing</id><content type="html" xml:base="http://localhost:4000/2022/08/14/reverse-job-listing.html">&lt;h1 id=&quot;reverse-job-posting&quot;&gt;Reverse job posting&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;I’ve had this idea for a while. My eyes start glazing over after a few mintues scrolling through jobs. It’s like reading tea leaves trying to figure out what the heck they’re looking for based on a few bullet points. So instead, I tried to figure out what I’m looking for. I hope this will help center me when I’m considering roles in the future: Does this company value the same things I do? Will I have a chance to do what I’m best at?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;about-brian&quot;&gt;About Brian&lt;/h2&gt;
+
+&lt;p&gt;I have over 20 years of hands-on full-stack web development experience using a variety of technologies (.NET, React, Ember, node.js) and platforms (AWS, Azure). I’ve been leading teams and managing software engineers for more than a decade.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-you&quot;&gt;About you&lt;/h2&gt;
+
+&lt;p&gt;You’re a young, product-focused startup looking for someone to lead 1-3 full-stack engineering teams. Or what the hell, maybe your whole engineering department!&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-bring-to-the-table&quot;&gt;What you bring to the table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Starting salary of  $225,000+.&lt;/li&gt;
+  &lt;li&gt;A primarily U.S.-based team.&lt;/li&gt;
+  &lt;li&gt;Fully/mostly remote or located in Chicago.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-value&quot;&gt;What you value&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Autonomy.&lt;/strong&gt; You understand that teams are at their best when empowered. You believe in delegating goals, not tasks.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accountability.&lt;/strong&gt; You challenge teams with ambitious goals and measure success so they know when they’ve succeeded (or failed).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alignment.&lt;/strong&gt; You know that in a remote-first world, keeping people and teams in sync is more important than ever. You’re always looking for ways to build culture, bring people closer together, and make sure everyone is striving towards the same vision.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-you-can-expect-from-me&quot;&gt;What you can expect from me&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ownership.&lt;/strong&gt; A product engineer to the core, I want to be involved from initial ideation to production deployment. Shipping the best possible experience for our customers is everyone’s responsibility, and I’ll gladly take the 3 a.m. call when our Apdex goes through the floor.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Constant improvement.&lt;/strong&gt; I’m never satisfied with the status quo and always thinking about how we can improve products, processes and people to deliver more value for our stakeholders.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Servant leadership.&lt;/strong&gt; A good engineering manager understands that they get the blame and the team gets the credit. I strive to help people work on what they’re passionate about (even if that means I sometimes get the leftovers).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bonus-points&quot;&gt;Bonus points&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Equity.&lt;/strong&gt; I love having skin in the game.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Headcount under 500.&lt;/strong&gt; The smaller the organization, the larger the impact I can have.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unlimited PTO.&lt;/strong&gt; I work hard and with passion, and know when to take a break to avoid burnout.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A network of devs in Chicago and around the country we can recruit.&lt;/li&gt;
+  &lt;li&gt;My sparkling sense of humor. No, really.&lt;/li&gt;
+  &lt;li&gt;An opportunity to visit the fine city of Chicago. (Offer valid only five months a year.)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Reverse job posting</summary></entry></feed>
